@@ -2,5 +2,5 @@
 
 <p>
 	<b><liferay-ui:message key="Mi-Portlet.caption"/></b>
-	<p>Hola Mundo! </p>
+	<p>Hola Mundo!</p>
 </p>
